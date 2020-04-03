@@ -25,9 +25,9 @@ else {
   console.log(chalk.red.inverse.bold("No location provided!"))
 }
 
+// DEPRECATED CODE FOR LEARNING
 
 // Old code without callbacks. just basic functionality of the APIs
-
 // const urlWeather = "https://api.darksky.net/forecast/dd2f1f18a45729116d6efae80c5f7989/37.8267,-122.4233"
 // const urlGeo = "https://api.mapbox.com/geocoding/v5/mapbox.places/Delhi.json?access_token=pk.eyJ1IjoiYmlwaW5rYWxyYSIsImEiOiJjazgxb3Z1d2gwOGVmM2VwdHQzbWZmZnJkIn0.91vjZjXQ2yjhpbRueqasWg&limit=1"
 
